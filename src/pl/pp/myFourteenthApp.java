@@ -2,7 +2,7 @@ package pl.pp;
 import java.io.*;
 import java.util.*;
 
-public class myThirteenthApp {
+public class myFourteenthApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         File inputFile = null;
